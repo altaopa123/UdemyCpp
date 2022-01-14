@@ -4,7 +4,7 @@ void game()
 {
     bool has_won = false;
 
-    std::cout << "Welcome to my Guessing-Game!" << std::endl;
+    std::cout << "WelcomeS Guessing-Game!" << std::endl;
 
     do
     {
